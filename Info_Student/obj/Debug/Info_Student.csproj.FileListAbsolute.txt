@@ -1,0 +1,9 @@
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\bin\Debug\Info_Student.exe.config
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\bin\Debug\Info_Student.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\bin\Debug\Info_Student.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\obj\Debug\Info_Student.Form1.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\obj\Debug\Info_Student.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\obj\Debug\Info_Student.csproj.GenerateResource.Cache
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\obj\Debug\Info_Student.exe
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\obj\Debug\Info_Student.pdb
+c:\users\ahmed\documents\visual studio 2015\Projects\Info_Student\Info_Student\bin\Debug\Database1.accdb
